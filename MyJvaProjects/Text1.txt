@@ -1,0 +1,36 @@
+Basic Understandable Definations from java :
+
+* Variables:
+     Variables in Java are containers that store data values in memory. They are named locations in memory used to hold different types of data during program execution. Before using a variable, it must be declared with a specific data type.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Data Types:
+     Data types in Java define the type of data a variable can hold and the range of values it can store. Java has two main categories of data types:
+*Primitive Data Types:
+These are fundamental data types built into the language and include:
+Integers: byte, short, int, long (for whole numbers).
+Floating-point numbers: float, double (for numbers with decimal points).
+Characters: char (for single characters).
+Boolean: boolean (for true or false values).
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Operators:
+   Operators in Java are special symbols that perform operations on one or more operands (variables or values). They are used to manipulate data and perform calculations. Common categories of operators include:
+
+Arithmetic Operators: +, -, *, /, % (for mathematical calculations).
+Assignment Operators: =, +=, -=, etc. (for assigning values).
+Comparison (Relational) Operators: ==, !=, <, >, <=, >= (for comparing values).
+Logical Operators: &&, ||, ! (for combining or negating boolean expressions).
+Unary Operators: ++, --, +, - (for operations on a single operand).
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Control Flow Statements:
+    Control flow statements in Java dictate the order in which instructions are executed within a program. They allow for decision-making, repetition, and jumping to different parts of the code. Key types of control flow statements include: 
+
+*Conditional Statements:
+if, else if, else: Execute code blocks based on conditions.
+switch: Execute different code blocks based on the value of an expression.
+
+*Looping Statements:
+for: Repeatedly execute a block of code a fixed number of times.
+while: Repeatedly execute a block of code as long as a condition is true.
+do-while: Execute a block of code at least once, then repeatedly as long as a condition is true.
